@@ -5,8 +5,9 @@ This repository presents **pre-development test scenarios** designed for the HR 
 The focus areas include **dashboard functionality, employee management, and leave request processes**, ensuring UX and logic validation prior to implementation.  
 All scenarios follow **systematic QA planning**, emphasizing usability and design consistency.
 
+
 <p align="center">
-  <img width="400" alt="HR Management Banner" src="https://github.com/user-attachments/assets/e6d02ea9-889f-4653-8c53-7f6d5d5870c7" />
+  <img width="800" alt="HR Management Banner" src="https://github.com/user-attachments/assets/f6f97b68-674a-418c-aca7-c9c2ba8eafa6" />
 </p>
 
 ---
@@ -17,10 +18,13 @@ All scenarios follow **systematic QA planning**, emphasizing usability and desig
   <table>
     <tr>
       <td align="center">
-        <img width="250" alt="Dashboard Prototype" src="https://github.com/user-attachments/assets/b98fb027-5fd7-407b-81d5-3931470d12ce" />
+        <img width="600" alt="Dashboard Prototype" src="https://github.com/user-attachments/assets/6ccca9b1-7dc7-4d25-b2fb-d45c302144a9" />
       </td>
       <td align="center">
-        <img width="250" alt="Employee Page Prototype" src="https://github.com/user-attachments/assets/cb65832d-dba3-4926-a867-69b4bf134f16" />
+        <img width="600" alt="Employee Page Prototype" src="https://github.com/user-attachments/assets/875992b5-d6b4-46e5-ba79-16712e510b1b" />
+      </td>
+      <td align="center">
+        <img width="600" alt="Employee Page Prototype" src="https://github.com/user-attachments/assets/b1606e86-767d-4ba0-ad6b-6e68c0393b15" />
       </td>
     </tr>
   </table>
